@@ -18,7 +18,7 @@
 
 2020.9.16 21:35 更新多用户版，使用WxPusher，致谢[@themanforfree](https://github.com/themanforfree)
 
-2020.9.14 12:40 使用方法优化
+2020.9.14 12:40 使用方法优化  
 
 ## 使用方法
 
